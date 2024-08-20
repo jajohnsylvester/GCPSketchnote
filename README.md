@@ -1,32 +1,9 @@
-# GCPSketchnote
-
-## The Google Cloud Developer's Visual Notes
-Every product in the Google Cloud family described in the visual sketchnote format to grasp the capability of the tools quickly and easily.
-
-Pull requests are welcome on README.md (this file).
-
-## Your favorite GCP Sketchnote are now coming in a BOOK PRE-ORDER NOW!
-<a target="_blank" href="/images/book.png"><img border="1" alt="Visualizing Google Cloud: 101 Illustrated References for Cloud Engineers and Architects" src="/images/book.png"></a>
-
-<!--- <a target="_blank" href="/images/ComputeOptions.jpg"><img border="1" alt="Where should I run my stuff on Google Cloud" src="/images/ComputeOptions.jpg"></a> --->
-
-Feedback and suggestions? <img width="40" valign="middle" src="https://storage.googleapis.com/gregsramblings-downloads/Twitter_Logo_Blue.png">[@pvergadia](https://twitter.com/pvergadia). You can also check my blog - [https://thecloudgirl.dev](https://thecloudgirl.dev) and my [Youtube Channel](https://bit.ly/theCloudGirl)
-
-**Note:** This project is a work in progress and this list only includes products that are publicly available. There are several products in pre-release/private-alpha that will not be included until they go public beta or GA.
-
-Many of these products have a [free tier](https://cloud.google.com/free/). There is also a [free trial](https://console.cloud.google.com/freetrial) that will enable you try almost everything.
-
-----------------------------
-# All GCP Sketchnotes
-<sup>:link:-Product Page</sup>
-<sup>:page_facing_up:-Documentation</sup>
-
-| Topic  | Description | GCPSketchnote Video | GCPSketchnote Image | Other Links |
+| Topic  | GCPSketchnote Image |
 | ------ | ----------- |---------------------|-----------|---|
 | **Compute Options**   | [<img src="/images/ComputeOptions.jpg">] 
 | **Cloud Run**  |  [<img src="/images/CloudRun.png" >]
-| **Cloud Functions**  | [Event-driven serverless functions](https://goo.gle/3jphpBR)  | [<img src="https://img.youtube.com/vi/LTMChfWBHb0/sddefault.jpg" width=200>](https://www.youtube.com/watch?v=LTMChfWBHb0&list=PLTWE_lmu2InBzuPmOcgAYP7U80a87cpJd) | [<img src="/images/cloudfunctions.png" >](https://thecloudgirl.dev/CloudFunctions.html) | [<sup>:link:</sup>](https://cloud.google.com/functions?utm_source=twitter&utm_medium=unpaidsoc&utm_campaign=CDR_pve_gcp_gcpsketchnote_&utm_content=-) [<sup>:page_facing_up:</sup>](https://cloud.google.com/functions/docs?utm_source=twitter&utm_medium=unpaidsoc&utm_campaign=CDR_pve_gcp_gcpsketchnote_&utm_content=-) | 
-| **Compute Engine**  | [VMs, GPUs, TPUs, Disks](https://goo.gle/3E8eRjr)  | [<img src="https://img.youtube.com/vi/s1LxRhjPJ7E/sddefault.jpg" width=200>](https://www.youtube.com/watch?v=s1LxRhjPJ7E&list=PLTWE_lmu2InBzuPmOcgAYP7U80a87cpJd) | [<img src="/images/GCE.jpg" >](https://thecloudgirl.dev/gcpsketchnote2.html) | [<sup>:link:</sup>](https://cloud.google.com/compute?utm_source=twitter&utm_medium=unpaidsoc&utm_campaign=CDR_pve_gcp_gcpsketchnote_&utm_content=-) [<sup>:page_facing_up:</sup>](https://cloud.google.com/compute/docs?utm_source=twitter&utm_medium=unpaidsoc&utm_campaign=CDR_pve_gcp_gcpsketchnote_&utm_content=-) | 
+| **Cloud Functions**  |  [<img src="/images/cloudfunctions.png" >]
+| **Compute Engine**  | [<img src="/images/GCE.jpg" >]
 | **Kubernetes Engine (GKE)**  | [Managed Kubernetes/containers](https://goo.gle/3pzWX5f)  | [<img src="https://img.youtube.com/vi/F8s-DAfMtRM/sddefault.jpg" width=200>](https://www.youtube.com/watch?v=F8s-DAfMtRM&list=PLTWE_lmu2InBzuPmOcgAYP7U80a87cpJd) | [<img src="/images/GKE.jpg" >](https://thecloudgirl.dev/GKE.html) | [<sup>:link:</sup>](https://cloud.google.com/kubernetes-engine?utm_source=twitter&utm_medium=unpaidsoc&utm_campaign=CDR_pve_gcp_gcpsketchnote_&utm_content=-) [<sup>:page_facing_up:</sup>](https://cloud.google.com/kubernetes-engine/docs?utm_source=twitter&utm_medium=unpaidsoc&utm_campaign=CDR_pve_gcp_gcpsketchnote_&utm_content=-) |
 | **Migration Journey**  | [How to migrate to GCP](https://cloud.google.com/blog/topics/developers-practitioners/google-cloud-migration-made-easy)  | [<img src="https://img.youtube.com/vi/ZDn6zIaBfas/sddefault.jpg" width=200>](https://www.youtube.com/watch?v=ZDn6zIaBfas&list=PLTWE_lmu2InBzuPmOcgAYP7U80a87cpJd) | [<img src="/images/MigrationJourney.jpg" >](https://thecloudgirl.dev/MigrationJourney.html) | [<sup>:link:</sup>](https://cloud.google.com/blog/topics/developers-practitioners/google-cloud-migration-made-easy?utm_source=twitter&utm_medium=unpaidsoc&utm_campaign=CDR_pve_gcp_gcpsketchnote_&utm_content=-) |
 | **Migration Use cases**  | [Different migration use cases](https://cloud.google.com/blog/topics/developers-practitioners/google-cloud-migration-made-easy)  | [<img src="https://img.youtube.com/vi/eWlQ-8AfDz4/sddefault.jpg" width=200>](https://www.youtube.com/watch?v=eWlQ-8AfDz4&list=PLTWE_lmu2InBzuPmOcgAYP7U80a87cpJd) | [<img src="/images/MigrationCheatsheet.png" >](https://thecloudgirl.dev/MigrationCheatsheet.html) | [<sup>:link:</sup>](https://cloud.google.com/blog/topics/developers-practitioners/google-cloud-migration-made-easy?utm_source=twitter&utm_medium=unpaidsoc&utm_campaign=CDR_pve_gcp_gcpsketchnote_&utm_content=-) |
